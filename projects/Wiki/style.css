@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: black;
+    text-align: left;
+    font-family: 'Merriweather', serif;
+    font-family: 'Space Mono', monospace;
+}
