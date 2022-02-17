@@ -1,0 +1,29 @@
+body {
+    background-color: #FFF;
+}
+
+h1 {
+    color: #D29395;
+    text-align: left;
+    font-family: 'Roboto Serif';
+    font-weight: bold;
+}
+
+p {
+    color: black;
+    text-align: left;
+    font-family: 'Open Sans';
+    font-weight: 400;
+}
+
+h2 {
+    color: #86BEBE;
+    text-align: left;
+    font-family: 'Roboto Serif';
+    font-weight: bold;
+
+}
+
+    {
+    border-bottom
+}
