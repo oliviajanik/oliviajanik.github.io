@@ -1,0 +1,23 @@
+.body {
+    background-color: #FFF;
+}
+
+.h1 {
+    color: #C99296;
+    text-align: left;
+    font-family: 'Roboto Serif';
+    font-weight: bold;
+}
+
+.p {
+    color: black;
+    text-align: left;
+    font-family: 'Open Sans';
+    font-weight: 400;
+}
+.h2 {
+    color: #92C9C5;
+    text-align: left;
+    font-family: 'Roboto Serif';
+    font-weight: bold;
+}
