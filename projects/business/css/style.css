@@ -19,7 +19,13 @@ h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
     color: #6B705C;
+    text-decoration: none;
 
+}
+nav,
+footer{
+    text-align: center;
+    margin: 30px 0;
 }
 
 h3 {
@@ -29,7 +35,6 @@ h3 {
     padding-left: .5em;
     color: #6B705C;
 }
-
 p {
     font-family: 'Lora', serif;
     padding-left: .5em;
@@ -53,12 +58,11 @@ body {
 }
 
 
-
 footer p,
 footer b {
     text-align: center;
-    line-height: 1;
+    line-height: .5;
     display: block;
     color: #CB997E;
-    padding: 20px;
+    padding: 50px 0;
 }
