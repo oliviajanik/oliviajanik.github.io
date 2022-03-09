@@ -38,16 +38,24 @@ p {
 
 body {
     background-color: #EEDDD3;
+    font-family: 'Lora', serif;
 
 }
-
+.block{
+    text-align: center;
+    font-family: 'Lora', serif;
+    color: black;
+}
 .block img {
     margin: 20px 0;
 }
 
-.footer {
+
+
+footer {
     text-align: center;
     line-height: 1;
     display: block;
     color: #CB997E;
+    padding: 20px;
 }
