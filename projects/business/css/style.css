@@ -2,32 +2,52 @@ h1 {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     padding-left: .5em;
+    color: #CB997E;
 }
-h2{
+
+h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: .1em;
     padding-left: .5em;
+    color: #CB997E;
 }
+
 .nav-link {
     text-transform: uppercase;
     font-size: .7em;
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
+    color: #6B705C;
 
 }
-h3{
+
+h3 {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     font-size: small;
     padding-left: .5em;
-}
-p{
-    font-family: 'Lora', serif;
-    padding-left: .5em;
-}
-body{
-    background-color: #EEDDD3;
-    
+    color: #6B705C;
 }
 
+p {
+    font-family: 'Lora', serif;
+    padding-left: .5em;
+    color: black;
+}
+
+body {
+    background-color: #EEDDD3;
+
+}
+
+.block img {
+    margin: 20px 0;
+}
+
+.footer {
+    text-align: center;
+    line-height: 1;
+    display: block;
+    color: #CB997E;
+}
