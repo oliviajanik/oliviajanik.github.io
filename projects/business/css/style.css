@@ -41,18 +41,21 @@ body {
     font-family: 'Lora', serif;
 
 }
-.block{
+
+.block {
     text-align: center;
     font-family: 'Lora', serif;
     color: black;
 }
+
 .block img {
     margin: 20px 0;
 }
 
 
 
-footer {
+footer p,
+footer b {
     text-align: center;
     line-height: 1;
     display: block;
