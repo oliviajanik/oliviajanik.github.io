@@ -23,38 +23,44 @@
 <body>
   <h1>Olivia Janik</h1>
 
-  <ul class="nav">
-    <li class="nav-item">
-      <a class="nav-link" href="../index.html">Home</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="../resume/index.html">Resume</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="../clips/index.html">Clips</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link active" aria-current="page" hreflang="#">Photography</a>
-    </li>
-  </ul>
+  <nav class="nav">
+    <a class="nav-link" href="../index.html">Home</a>
+    <a class="nav-link" href="../resume/index.html">Resume</a>
+    <a class="nav-link" href="../clips/index.html">Clips</a>
+    <a class="nav-link active" aria-current="page" href="#">Photography</a>
+  </nav>
   <h2>Photography</h2>
  <p>This is a sample of some recent photos I've taken. I am experienced in manual photography and editing RAW photos with Adobe Photoshop</p>
-  <div class="row block">
- <div class="offset col-md-6">
-    <img src="../assets/img/sunrise.jpg" alt="sunrise photo" width="500px" height="400px">
-  </div>
-  <div class="col-md-6">
-    <img src="../assets/img/travel5.jpg" alt="Capitol Building photo" width="500px" height="400px">
-  </div>
-  </div>
-  <div class="row block">
-    <div class="offset col-md-6">
-      <img src="../assets/img/DSC_0105.jpg" alt="sheep photo" width="500px" height="400px">
+ <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../assets/img/DSC_0105.jpg" class="d-block w-100" alt="sheep photo">
     </div>
-    <div class="col-md-6">
-      <img src="../assets/img/DSC_0354.jpg" alt="photo" width="500px" height="400px">
+    <div class="carousel-item">
+      <img src="../assets/img/DSC_0348.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/img/DSC_0354.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/img/sunrise.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/img/travel2.jpg" class="d-block w-100" alt="rowhome photo">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/img/travel5.jpg" class="d-block w-100" alt="captiol building photo">
     </div>
   </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
   
   
   <!-- JavaScript Bundle with Popper -->
