@@ -8,6 +8,10 @@ h1 {
     color: #B2846C;
     padding-left: 30px;
 }
+line{
+    color: black;
+    
+}
 nav{
     text-transform: uppercase;
     color: black;
@@ -16,13 +20,16 @@ nav{
     padding-left: 30px;
 }
 
-ul, li {
+ul, li{
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     color: black;
-    padding-left: 40px;
+    padding-left: 30px;
+    list-style-position: inside;
 
 }
+
+
 h2{
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
@@ -46,4 +53,11 @@ p {
 }
 img{
     padding: 30px;
+    align-items: center;
+}
+footer{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    padding-bottom: 10px;
 }
