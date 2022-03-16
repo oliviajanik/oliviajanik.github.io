@@ -42,17 +42,31 @@ h3 {
     padding-left: 30px;
     color: #B2846C;
 }
+h5{
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+}
 
 p {
     padding-left: 30px;
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     color: black;
-    padding-right: 100px;
     padding-left: 30px;
+    padding-right: 30px;
+}
+a{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    padding-left: 20px;
+    font-size: smaller;
 }
 img{
-    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
     align-items: center;
 }
 footer{
@@ -60,4 +74,5 @@ footer{
     font-family: 'Raleway', sans-serif;
     font-style: italic;
     padding-bottom: 10px;
+    padding-right: 100px;
 }
