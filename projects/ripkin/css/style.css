@@ -68,7 +68,7 @@ section{
     margin: 0 auto;
     padding: 5% 0%;
 }
-@media only screen and (min-width: 450px){section, footer{
+@media only screen and (min-width: 450px){section{
 width: 95%;
 }
 h2{
@@ -119,4 +119,5 @@ h3{
 }
 footer{
     width: 65%;
-    margin: auto; }
+    margin: auto;
+}
