@@ -1,18 +1,20 @@
-body{
+body {
     background-color: #FAF5F0;
 }
 
 h1 {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    color: #B2846C;
+    text-decoration-color: #B2846C;
     padding-left: 30px;
 }
-line{
+
+line {
     color: black;
-    
+
 }
-nav{
+
+nav {
     text-transform: uppercase;
     color: black;
     font-family: 'Raleway', sans-serif;
@@ -20,7 +22,7 @@ nav{
     padding-left: 30px;
 }
 
-ul, li{
+ul, li {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     color: black;
@@ -30,19 +32,21 @@ ul, li{
 }
 
 
-h2{
+h2 {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
     padding-left: 30px;
     color: #70705C;
 }
+
 h3 {
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
     padding-left: 30px;
     color: #B2846C;
 }
-h5{
+
+h5 {
     font-family: 'Raleway', sans-serif;
     text-align: left;
     padding-left: 20px;
@@ -57,19 +61,22 @@ p {
     padding-left: 30px;
     padding-right: 30px;
 }
-a{
+
+a {
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
     padding-left: 20px;
     font-size: smaller;
     padding-bottom: 0;
 }
-img{
+
+img {
     padding-left: 30px;
     padding-right: 30px;
     align-items: center;
 }
-footer{
+
+footer {
     text-align: center;
     font-family: 'Raleway', sans-serif;
     font-style: italic;
