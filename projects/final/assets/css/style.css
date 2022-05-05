@@ -7,8 +7,18 @@ h1{
 }
 body{
     background-color: #EADACB;
+    font-family: 'Raleway', sans-serif;
+    width: 80%;
+    margin: auto;
 }
 iframe{
     background-color: white;
-    margin: 20px;
+    margin: 20px 0px;
 }
+p{
+   font-family: 'Raleway', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+
