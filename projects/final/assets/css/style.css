@@ -1,0 +1,14 @@
+h1{
+    font-family: 'Bitter', serif;
+    font-weight: 600;
+    font-size: 5em;
+    color: #AE8071;
+    text-align: center;
+}
+body{
+    background-color: #EADACB;
+}
+iframe{
+    background-color: white;
+    margin: 20px;
+}
