@@ -19,6 +19,9 @@ p{
    font-family: 'Raleway', sans-serif;
 }
 img{
-    max-width: 100%;
+    width: 100%;
 }
-
+i{
+    font-size: .8em;
+    font-style: italic;
+}
