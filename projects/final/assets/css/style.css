@@ -16,10 +16,7 @@ body{
     margin: auto;
 
 }
-iframe{
-    background-color: white;
-    margin: 20px 0px;
-}
+
 img{
     width: 100%;
 }
@@ -27,6 +24,33 @@ i{
     font-size: .8em;
     font-style: italic;
 }
+.graphics{
+    background-color: #ffffff;
+    margin: 20px 0px;
+    padding: 20px;
+}
+.float{
+width: 50%;
+float: right;
+margin: 0px 0px 0px 5px;
+}
+
 footer{
     margin-bottom: 10%;
 }
+@media (max-width: 450px){
+Body{
+width: 100%;
+    }
+h1{
+    font-size: 2em;
+    margin-top: 20px;
+}
+i{
+    padding-bottom: 20px;
+    font-size: .7em;
+
+}
+.float{
+    width: 100%;
+}}
