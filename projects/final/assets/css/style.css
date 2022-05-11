@@ -1,7 +1,11 @@
+header{
+    margin-top: 10%;
+}
 h1{
+
     font-family: 'Bitter', serif;
     font-weight: 600;
-    font-size: 5em;
+    font-size: 3.5em;
     color: #AE8071;
     text-align: center;
 }
@@ -10,13 +14,11 @@ body{
     font-family: 'Raleway', sans-serif;
     width: 80%;
     margin: auto;
+
 }
 iframe{
     background-color: white;
     margin: 20px 0px;
-}
-p{
-   font-family: 'Raleway', sans-serif;
 }
 img{
     width: 100%;
@@ -24,4 +26,7 @@ img{
 i{
     font-size: .8em;
     font-style: italic;
+}
+footer{
+    margin-bottom: 10%;
 }
