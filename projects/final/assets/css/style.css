@@ -1,13 +1,14 @@
 header{
     margin-top: 10%;
+    align-items: center;
 }
 h1{
 
     font-family: 'Bitter', serif;
     font-weight: 600;
-    font-size: 3.5em;
+    font-size: 4em;
     color: #AE8071;
-    text-align: center;
+    text-align: left;
 }
 body{
     background-color: #EADACB;
