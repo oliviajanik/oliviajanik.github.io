@@ -38,9 +38,20 @@ margin: 0px 0px 0px 5px;
 
 footer{
     margin-bottom: 10%;
+    font-size: .8em;
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+      
+}
+a:hover{
+    color: #AE8071;
+    text-decoration: underline;
 }
 @media (max-width: 450px){
-Body{
+body{
 width: 100%;
     }
 h1{
